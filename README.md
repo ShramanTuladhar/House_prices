@@ -2,7 +2,7 @@
 
 ### 📊 *Data-Driven Insights for Real Estate Analytics*  
 
-![Dashboard Preview](./Screenshot%202025-03-08%20223805.png)  
+![Dashboard Preview](https://github.com/ShramanTuladhar/House_prices/blob/main/Screenshot%202025-03-08%20223805.png)  
 
 ## 📌 Overview  
 The **Australian Housing Dashboard** is an **Excel-based data analysis project** designed to provide **deep insights into property sales trends**.  
@@ -17,7 +17,7 @@ This project leverages **data visualization tools, pivot tables, and Excel formu
 - Categorizes sales into **houses vs. units** for better insights.  
 - Provides **average sale price** to understand pricing trends.  
 
-![Properties Sold](./screenshot1.png)  
+![Properties Sold](https://github.com/ShramanTuladhar/House_prices/blob/main/Screenshot%202025-03-08%20231411.png)  
 
 ---
 
@@ -25,7 +25,7 @@ This project leverages **data visualization tools, pivot tables, and Excel formu
 - Classifies properties into different **price brackets** *(e.g., 100K-300K, 500K-600K, 1M+).*  
 - Helps users analyze which **price segment dominates the market.**  
 
-![Price Analysis](./screenshot2.png)  
+![Price Analysis](https://github.com/ShramanTuladhar/House_prices/blob/main/Screenshot%202025-03-08%20235513.png)  
 
 ---
 
@@ -33,7 +33,7 @@ This project leverages **data visualization tools, pivot tables, and Excel formu
 - Lists the **top-performing real estate agencies** based on sales volume.  
 - Displays the **average sale price per agency** to compare market positioning.  
 
-![Top Agencies](./screenshot3.png)  
+![Top Agencies](https://github.com/ShramanTuladhar/House_prices/blob/main/Screenshot%202025-03-08%20235525.png)  
 
 ---
 
@@ -41,7 +41,7 @@ This project leverages **data visualization tools, pivot tables, and Excel formu
 - Shows property sales distribution **over different months** to track trends.  
 - Useful for understanding **seasonal effects on property sales**.  
 
-![Monthly Sales](./screenshot4.png)  
+![Monthly Sales](https://github.com/ShramanTuladhar/House_prices/blob/main/Screenshot%202025-03-08%20231317.png)  
 
 ---
 
@@ -49,7 +49,7 @@ This project leverages **data visualization tools, pivot tables, and Excel formu
 - Analyzes the **impact of bedroom count on property prices**.  
 - Identifies trends such as whether **larger homes attract higher prices**.  
 
-![Bedroom Correlation](./screenshot5.png)  
+![Bedroom Correlation](https://github.com/ShramanTuladhar/House_prices/blob/main/Screenshot%202025-03-08%20231243.png)  
 
 ---
 
